@@ -1,2 +1,2 @@
 # hello
-a sample repo
+a sample repository
